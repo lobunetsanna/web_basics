@@ -13,6 +13,9 @@
   background-color: yellow;
 }
 /* 4. для усіх впорядкованих списків задайте рамку 1px solid red */
+.g2 {
+  border: blue ;
+}
 ol {
   border: 1px solid red;
 }
